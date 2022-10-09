@@ -2,8 +2,8 @@
 
 
 ## Projeto Rocket Help
-Projeto realizado no evento da rocketseat ignite lab de react native.
-Aplicação para gerenciar em tempo real solicitações de manutenção e suporte a equipamentos.
+- Projeto realizado no evento da rocketseat ignite lab de react native.
+- Aplicação para gerenciar em tempo real solicitações de manutenção e suporte a equipamentos.
 
 
 ## Tecnologias Ultilizadas
